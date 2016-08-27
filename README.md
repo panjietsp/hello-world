@@ -6,3 +6,7 @@ just now, I created a new branch called "readme-edits". But it wsa just a copy o
 
 ===================
 I change it in the local computer
+
+
+==================
+after the operation in the master, I think the push to remote server will be refused
